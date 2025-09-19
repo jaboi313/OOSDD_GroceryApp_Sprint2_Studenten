@@ -1,7 +1,12 @@
 # GroceryApp sprint2 
 
-## Docentversie  
-In deze versie zijn de wijzigingen doorgevoerd en is de code compleet.  
+## Gitflow:  
+Ik maak gebruik van de branch structuur:
+
+Main
+└── Dev
+	└──Feature/
+ 	└──Hotfix/
 
 ## Studentversie:  
 ### UC04 Kiezen kleur boodschappenlijst  
